@@ -18,4 +18,4 @@ We would like to thank the following contributors for their hard work and dedica
 - **Joshua Lacsi**
 - **Elea Jem Lobaton**
 - **Cristine Joy Sorilla**
-- **Roy Marjohn Catapang**
+- **Roy Marjohn Araneta**
